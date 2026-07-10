@@ -1,0 +1,55 @@
+{
+  "signalDate": "2026-07-09",
+  "executeDate": "2026-07-10",
+  "lookback": 20,
+  "topK": 3,
+  "bear": false,
+  "riskWeight": 1.0,
+  "benchmark": {
+    "code": "510300.XSHG",
+    "close": 4.916,
+    "ma200": 4.744525000000002,
+    "distanceToMA200": 0.036141658016344724,
+    "bear": false,
+    "status": "normal"
+  },
+  "selected": [
+    {
+      "code": "512480.XSHG",
+      "name": "半导体ETF",
+      "category": "行业主题",
+      "momentum": 0.40095238095238095,
+      "er": 0.4923976608187134,
+      "score": 0.19742801448064604,
+      "targetWeight": 0.3333333333333333
+    },
+    {
+      "code": "588000.XSHG",
+      "name": "科创50ETF",
+      "category": "宽基",
+      "momentum": 0.3348623853211008,
+      "er": 0.47712418300653603,
+      "score": 0.15977094201595007,
+      "targetWeight": 0.3333333333333333
+    },
+    {
+      "code": "159985.XSHE",
+      "name": "豆粕ETF",
+      "category": "商品",
+      "momentum": 0.07581047381546147,
+      "er": 0.44705882352941295,
+      "score": 0.03389174123514757,
+      "targetWeight": 0.3333333333333333
+    }
+  ],
+  "cashETF": {
+    "code": "511880.XSHG",
+    "name": "银华日利",
+    "targetWeight": 0.0
+  },
+  "targetWeights": {
+    "512480.XSHG": 0.3333333333333333,
+    "588000.XSHG": 0.3333333333333333,
+    "159985.XSHE": 0.3333333333333333
+  }
+}

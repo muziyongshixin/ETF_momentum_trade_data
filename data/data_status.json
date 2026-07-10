@@ -1,0 +1,48 @@
+{
+  "lastUpdate": "2026-07-09 22:47:47",
+  "source": "tdxrs",
+  "status": "ok",
+  "warnings": [
+    "QDII 溢价数据未接入",
+    "价格调整使用拆分/份额折算启发式修正，不是官方前复权或后复权因子"
+  ],
+  "priceCount": 52,
+  "missingCodes": [],
+  "detectedSplitEvents": [
+    {
+      "code": "512800.XSHG",
+      "date": "2025-07-07",
+      "ratio": 0.5030951041080473,
+      "factor": 0.5,
+      "action": "split_adjusted_heuristic"
+    },
+    {
+      "code": "512480.XSHG",
+      "date": "2026-07-03",
+      "ratio": 0.49296296296296294,
+      "factor": 0.5,
+      "action": "split_adjusted_heuristic"
+    },
+    {
+      "code": "515880.XSHG",
+      "date": "2026-02-03",
+      "ratio": 0.3430379746835443,
+      "factor": 0.3333333333333333,
+      "action": "split_adjusted_heuristic"
+    },
+    {
+      "code": "515880.XSHG",
+      "date": "2026-07-06",
+      "ratio": 0.4794173527549082,
+      "factor": 0.5,
+      "action": "split_adjusted_heuristic"
+    },
+    {
+      "code": "515050.XSHG",
+      "date": "2026-05-13",
+      "ratio": 0.3471471471471471,
+      "factor": 0.3333333333333333,
+      "action": "split_adjusted_heuristic"
+    }
+  ]
+}
