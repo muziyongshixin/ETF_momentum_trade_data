@@ -5,7 +5,7 @@
     "benchmark": "510300.XSHG",
     "cashETF": "511880.XSHG",
     "bearMAWindow": 200,
-    "normalRiskWeight": 1,
+    "normalRiskWeight": 1.0,
     "bearRiskWeight": 0.5,
     "commodityMax": null,
     "enableQDIIPremiumFilter": false
