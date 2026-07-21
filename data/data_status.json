@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-20 11:26:33",
+  "lastUpdate": "2026-07-21 10:48:03",
   "source": "tdxrs",
   "status": "ok",
   "warnings": [
@@ -10,6 +10,7 @@
     "海通2 (175.6.5.153:7709) [TdxHqFundClient]: benchmark probe returned 0 bars",
     "海通4 (182.131.3.245:7709) [TdxHqFundClient]: benchmark probe returned 0 bars",
     "杭州电信J3 (218.75.126.9:7709) [TdxHqFundClient]: Connection error: Failed to connect to 218.75.126.9:7709: Connection timed out (os error 110)",
+    "上海电信Z1 (180.153.18.170:7709) [TdxHqFundClient]: Connection error: Failed to connect to 180.153.18.170:7709: Connection timed out (os error 110)",
     "security fallback 广发13 (183.60.224.177:7709) [TdxHqClient]: benchmark probe returned 0 bars",
     "security fallback 海通8 (58.63.254.191:7709) [TdxHqClient]: benchmark probe returned 0 bars",
     "security fallback 广发1 (119.29.19.242:7709) [TdxHqClient]: benchmark probe returned 0 bars",
@@ -17,6 +18,7 @@
     "security fallback 海通2 (175.6.5.153:7709) [TdxHqClient]: benchmark probe returned 0 bars",
     "security fallback 海通4 (182.131.3.245:7709) [TdxHqClient]: benchmark probe returned 0 bars",
     "security fallback 杭州电信J3 (218.75.126.9:7709) [TdxHqClient]: Connection error: Failed to connect to 218.75.126.9:7709: Connection timed out (os error 110)",
+    "security fallback 上海电信Z1 (180.153.18.170:7709) [TdxHqClient]: Connection error: Failed to connect to 180.153.18.170:7709: Connection timed out (os error 110)",
     "QDII 溢价数据未接入",
     "价格调整使用拆分/份额折算启发式修正，不是官方前复权或后复权因子"
   ],
