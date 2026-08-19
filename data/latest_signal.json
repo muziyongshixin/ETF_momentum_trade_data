@@ -1,55 +1,56 @@
 {
-  "signalDate": "2026-08-18",
-  "executeDate": "2026-08-19",
+  "signalDate": "2026-08-19",
+  "executeDate": "2026-08-20",
   "lookback": 20,
   "topK": 3,
-  "bear": false,
-  "riskWeight": 1.0,
+  "bear": true,
+  "riskWeight": 0.5,
   "benchmark": {
     "code": "510300.XSHG",
-    "close": 4.787,
-    "ma200": 4.7539000000000025,
-    "distanceToMA200": 0.006962704305937706,
-    "bear": false,
-    "status": "normal"
+    "close": 4.654,
+    "ma200": 4.753320000000003,
+    "distanceToMA200": -0.020894869270321137,
+    "bear": true,
+    "status": "bear"
   },
   "selected": [
     {
       "code": "513030.XSHG",
       "name": "德国DAX ETF",
       "category": "跨境",
-      "momentum": 0.1145774248440159,
-      "er": 0.42796610169491583,
-      "score": 0.04903525385273568,
-      "targetWeight": 0.3333333333333333
+      "momentum": 0.0783200908059023,
+      "er": 0.257462686567164,
+      "score": 0.020164500991071845,
+      "targetWeight": 0.16666666666666666
     },
     {
-      "code": "512400.XSHG",
-      "name": "有色ETF",
-      "category": "行业主题",
-      "momentum": 0.1304093567251463,
-      "er": 0.24478594950603758,
-      "score": 0.0319223782104365,
-      "targetWeight": 0.3333333333333333
+      "code": "513060.XSHG",
+      "name": "恒生医疗ETF",
+      "category": "跨境",
+      "momentum": 0.05925925925925912,
+      "er": 0.23188405797101388,
+      "score": 0.013741277509393383,
+      "targetWeight": 0.16666666666666666
     },
     {
-      "code": "560010.XSHG",
-      "name": "中证1000ETF",
-      "category": "宽基",
-      "momentum": 0.09873670212765973,
-      "er": 0.3169690501600859,
-      "score": 0.03129647868934364,
-      "targetWeight": 0.3333333333333333
+      "code": "518880.XSHG",
+      "name": "黄金ETF",
+      "category": "商品",
+      "momentum": 0.04836448598130838,
+      "er": 0.2555555555555549,
+      "score": 0.01235981308411211,
+      "targetWeight": 0.16666666666666666
     }
   ],
   "cashETF": {
     "code": "511880.XSHG",
     "name": "银华日利",
-    "targetWeight": 0.0
+    "targetWeight": 0.5
   },
   "targetWeights": {
-    "513030.XSHG": 0.3333333333333333,
-    "512400.XSHG": 0.3333333333333333,
-    "560010.XSHG": 0.3333333333333333
+    "513030.XSHG": 0.16666666666666666,
+    "513060.XSHG": 0.16666666666666666,
+    "518880.XSHG": 0.16666666666666666,
+    "511880.XSHG": 0.5
   }
 }
