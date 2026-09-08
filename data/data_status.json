@@ -1,9 +1,10 @@
 {
-  "lastUpdate": "2026-09-07 14:27:37",
+  "lastUpdate": "2026-09-08 13:04:49",
   "source": "tdxrs",
   "status": "ok",
   "warnings": [
     "广发13 (183.60.224.177:7709) [TdxHqFundClient]: benchmark probe returned 0 bars",
+    "华林5 (218.106.92.182:7709) [TdxHqFundClient]: benchmark probe returned 0 bars",
     "海通8 (58.63.254.191:7709) [TdxHqFundClient]: benchmark probe returned 0 bars",
     "广发1 (119.29.19.242:7709) [TdxHqFundClient]: benchmark probe returned 0 bars",
     "华林4 (202.96.138.90:7709) [TdxHqFundClient]: Connection error: Failed to connect to 202.96.138.90:7709: Connection refused (os error 111)",
@@ -11,6 +12,7 @@
     "海通4 (182.131.3.245:7709) [TdxHqFundClient]: benchmark probe returned 0 bars",
     "杭州电信J3 (218.75.126.9:7709) [TdxHqFundClient]: Connection error: Failed to connect to 218.75.126.9:7709: Connection timed out (os error 110)",
     "security fallback 广发13 (183.60.224.177:7709) [TdxHqClient]: benchmark probe returned 0 bars",
+    "security fallback 华林5 (218.106.92.182:7709) [TdxHqClient]: benchmark probe returned 0 bars",
     "security fallback 海通8 (58.63.254.191:7709) [TdxHqClient]: benchmark probe returned 0 bars",
     "security fallback 广发1 (119.29.19.242:7709) [TdxHqClient]: benchmark probe returned 0 bars",
     "security fallback 华林4 (202.96.138.90:7709) [TdxHqClient]: Connection error: Failed to connect to 202.96.138.90:7709: Connection refused (os error 111)",
