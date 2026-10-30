@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-29 15:20:34",
+  "lastUpdate": "2026-10-30 15:08:47",
   "source": "tdx-v2",
   "status": "ok",
   "warnings": [
@@ -9,13 +9,6 @@
   "priceCount": 52,
   "missingCodes": [],
   "detectedSplitEvents": [
-    {
-      "code": "512800.XSHG",
-      "date": "2025-07-07",
-      "ratio": 0.5030951146596169,
-      "factor": 0.5,
-      "action": "split_adjusted_heuristic"
-    },
     {
       "code": "512480.XSHG",
       "date": "2026-07-03",
